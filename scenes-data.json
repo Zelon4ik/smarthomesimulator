@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e5aedb63-e2fe-4341-9770-6fe06bf895fb",
+    "name": "Sleep Mode",
+    "devices": [
+      {
+        "id": "ba6066cc-f109-4ce4-ad6a-aaaa661ff731",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "f40a47a9-a0b8-4b18-9d2b-5df9b762f718",
+    "name": "Movie Night Updated",
+    "devices": [
+      {
+        "id": "36282fbe-8cc8-4d64-af9e-45dea3ec4356",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  }
+]

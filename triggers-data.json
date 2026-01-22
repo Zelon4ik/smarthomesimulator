@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ae954dd9-5061-4599-b509-603166fa8fd6",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "3d70a411-5473-44c7-8693-32c6e61c8f11",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  }
+]

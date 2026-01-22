@@ -30,8 +30,8 @@ public class DataGenerator {
             );
 
             users.add(new User(
-                    UUID.randomUUID().toString(),
                     faker.name().fullName(),
+                    faker.internet().emailAddress(),
                     List.of(room)
             ));
         }

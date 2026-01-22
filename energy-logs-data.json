@@ -1,0 +1,20 @@
+[
+  {
+    "id": "762c9929-cc27-4ed5-acda-b367a380367e",
+    "deviceId": "ba6066cc-f109-4ce4-ad6a-aaaa661ff731",
+    "energyUsed": 75.0,
+    "timestamp": 1769101543879
+  },
+  {
+    "id": "444fba85-a861-4e3a-8e43-c319c920bc6b",
+    "deviceId": "36282fbe-8cc8-4d64-af9e-45dea3ec4356",
+    "energyUsed": 175.0,
+    "timestamp": 1769105143879
+  },
+  {
+    "id": "02ba1d22-0732-4439-a2b1-49ab0d9282de",
+    "deviceId": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+    "energyUsed": 200.0,
+    "timestamp": 1769105143879
+  }
+]

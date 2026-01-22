@@ -1,0 +1,35 @@
+[
+  {
+    "id": "254ae133-58a6-478c-a475-a5c298948050",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "ba6066cc-f109-4ce4-ad6a-aaaa661ff731",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "1e6a0e4a-1a81-4990-9d55-fee6561a95b7",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "36282fbe-8cc8-4d64-af9e-45dea3ec4356",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  }
+]

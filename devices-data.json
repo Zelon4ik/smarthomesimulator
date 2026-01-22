@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+    "name": "Smart TV",
+    "type": "TV",
+    "isOn": true,
+    "powerConsumption": 120.0
+  },
+  {
+    "id": "36282fbe-8cc8-4d64-af9e-45dea3ec4356",
+    "name": "Smart Light Updated",
+    "type": "Light",
+    "isOn": false,
+    "powerConsumption": 50.5
+  }
+]

@@ -21,4 +21,12 @@ public class IdentityMap<ID, T> {
     public void remove(ID id) {
         map.remove(id);
     }
+    
+    public void clear() {
+        map.clear();
+    }
+    
+    public boolean isEmpty() {
+        return map.isEmpty();
+    }
 }
