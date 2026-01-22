@@ -3,9 +3,13 @@ package smarthomesimulator;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import smarthomesimulator.User.User;
+import smarthomesimulator.repository.user.UserRepository;
+import smarthomesimulator.unitofwork.UnitOfWork;
+import smarthomesimulator.Room.Room;
 
-import java.io.FileWriter;
+import java.util.ArrayList;
 import java.util.List;
+import java.io.FileWriter;
 
 public class Main {
 
@@ -22,5 +26,23 @@ public class Main {
         }
 
         System.out.println("Data successfully saved to smart-home-data.json");
+
+
+        UserRepository repo = new UserRepository();
+
+        User user = new User(
+                "Ivan",
+                "ivan@mail.com",
+                new ArrayList<>()
+        );
+
+        repo.save(user);
+
+        String id = user.getId();
+
+        repo.findById(id);
+        repo.deleteById(id);
+
+
     }
 }

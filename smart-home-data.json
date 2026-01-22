@@ -1,94 +1,99 @@
 [
   {
-    "id": "e7041b16-f32e-4033-b0e4-9ecea80c7d53",
-    "name": "Dr. Marlana Muller",
+    "id": "97928b61-6815-4203-9fbd-291acf73a5ce",
+    "name": "7ddf637b-6ddd-4288-828d-7de01a4e894e",
+    "email": "Luann Pollich",
     "rooms": [
       {
-        "id": "c82b7e3a-5b7b-4f10-b932-cd007651681f",
+        "id": "f5b380fa-a5bd-4e65-be87-1d1bc29ebbbd",
+        "name": "pantry",
+        "devices": [
+          {
+            "id": "dedeb437-dc09-401c-a2a0-cdf715884ec9",
+            "name": "iPhone 11 Pro",
+            "type": "Light",
+            "isOn": true,
+            "powerConsumption": 41.64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "37c80208-dab5-403a-a2f2-cda0e5610ee5",
+    "name": "53fe7f06-4c4e-4e5c-b8af-6848e9ee5b4f",
+    "email": "Rupert Romaguera",
+    "rooms": [
+      {
+        "id": "8df81a59-5532-4ce7-83bf-21c48e50e89d",
+        "name": "porch",
+        "devices": [
+          {
+            "id": "4aab41e4-9efc-4943-89ae-a362da4907f4",
+            "name": "Huawei P20 Pro",
+            "type": "Light",
+            "isOn": true,
+            "powerConsumption": 80.52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3b60cc40-0dd5-46ff-a724-acaf2bfb7bc9",
+    "name": "24830a62-7bd1-4a8c-b2cc-8dea4ec6ceed",
+    "email": "Tomas Torp",
+    "rooms": [
+      {
+        "id": "862f3e8f-f1ff-412a-91a7-73a7f9a8087d",
         "name": "cellar",
         "devices": [
           {
-            "id": "597825ac-4a27-432d-be0c-81259b6e52cd",
-            "name": "Google Pixel 6 Pro",
+            "id": "1ab19dc6-1fe9-4ef0-a76b-ba2eccc7740c",
+            "name": "Google Pixel 7",
             "type": "Light",
             "isOn": true,
-            "powerConsumption": 99.61
+            "powerConsumption": 65.18
           }
         ]
       }
     ]
   },
   {
-    "id": "318a6101-08cc-4785-8e6f-6ee7d6753d2b",
-    "name": "Mari Kirlin",
+    "id": "14149ec9-3fac-47f0-b561-34fa6e9bf9d8",
+    "name": "8c9f71cf-5b97-487c-bf54-16c932c360b3",
+    "email": "Roxana Hills Jr.",
     "rooms": [
       {
-        "id": "cd790bbb-dfc4-4c38-89a1-eee3420c5537",
-        "name": "ensuite bathroom",
+        "id": "215e546f-cd3b-4485-9d31-62d0dbc1c252",
+        "name": "guest room",
         "devices": [
           {
-            "id": "cbca6d33-eec3-4270-833f-4ab045e63196",
-            "name": "Google Pixel 3",
+            "id": "353b4616-2d67-46b3-9e54-49cbe3a83faf",
+            "name": "Google Pixel 7 Pro",
             "type": "Light",
             "isOn": true,
-            "powerConsumption": 45.2
+            "powerConsumption": 66.6
           }
         ]
       }
     ]
   },
   {
-    "id": "fff21884-c139-481c-a25a-8cd552541645",
-    "name": "Cary Wilkinson",
+    "id": "faac27ab-d20d-49e5-b922-2ab72d8215f2",
+    "name": "d562462c-4981-43e1-9f6f-b590289ac933",
+    "email": "Vernon Stokes",
     "rooms": [
       {
-        "id": "a84f4648-c9bf-4b4a-b728-9913d8c8e389",
-        "name": "bedroom",
+        "id": "5623f4e2-baa6-4caa-bde0-8678bf9b4dc9",
+        "name": "reception room",
         "devices": [
           {
-            "id": "0db0880f-0173-42ec-bc38-7f079a023b5e",
-            "name": "iPhone 13",
+            "id": "72dd3b89-e1af-49dc-8ab1-51250d2ad398",
+            "name": "Samsung Galaxy S3",
             "type": "Light",
             "isOn": true,
-            "powerConsumption": 89.51
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "abf97b7c-bd68-4cd3-90de-184f3f2fa6c9",
-    "name": "Clarence Trantow",
-    "rooms": [
-      {
-        "id": "f08daa59-ebb8-4da5-9b1b-4bcac4807aad",
-        "name": "attic",
-        "devices": [
-          {
-            "id": "c7d2b20f-6c77-4b6e-ac65-12b0276ecf81",
-            "name": "Huawei P10 Plus",
-            "type": "Light",
-            "isOn": true,
-            "powerConsumption": 47.65
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "f7e0e0b1-f9c7-42d8-97c5-5551e72254a9",
-    "name": "Ms. Patrick Conroy",
-    "rooms": [
-      {
-        "id": "6bd2a5de-e2a3-4800-a438-3c193dfa7de6",
-        "name": "drawing room",
-        "devices": [
-          {
-            "id": "1ada78c5-9474-4abd-8577-de3ed3698dde",
-            "name": "Samsung Galaxy S5",
-            "type": "Light",
-            "isOn": true,
-            "powerConsumption": 70.68
+            "powerConsumption": 34.49
           }
         ]
       }
