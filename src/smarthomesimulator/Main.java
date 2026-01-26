@@ -39,8 +39,8 @@ public class Main {
         System.out.println("--- USER Operations ---");
         
         // CREATE
-        User user1 = new User("Ivan Petrov", "ivan@mail.com", new ArrayList<>());
-        User user2 = new User("Maria Ivanova", "maria@mail.com", new ArrayList<>());
+        User user1 = new User("Ivan Petrov", "ivan@mail.com", "hashed_password_1", new ArrayList<>());
+        User user2 = new User("Maria Ivanova", "maria@mail.com", "hashed_password_2", new ArrayList<>());
         userRepo.save(user1);
         userRepo.save(user2);
         System.out.println("Created users: " + user1.getName() + ", " + user2.getName());

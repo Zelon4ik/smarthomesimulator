@@ -1,0 +1,15 @@
+ID,Condition,Action
+ae954dd9-5061-4599-b509-603166fa8fd6,temperature < 18,turn on heating
+bc3e6075-7ba6-4c16-9985-723fd6686ebd,temperature < 18,turn on heating
+f649ed7c-6190-42b1-83c5-f6d40cbc52ec,time > 22:00,turn off all lights and set thermostat to 18
+9c8f8552-5e42-4474-a91e-7389cfa4c838,temperature < 18,turn on heating
+12e26e1a-c127-47c4-b9ec-7ce9abdf8894,time > 22:00,turn off all lights
+82b3596d-07dd-46c5-8e10-c7985ac526b0,time > 22:00,turn off all lights and set thermostat to 18
+3d70a411-5473-44c7-8693-32c6e61c8f11,time > 22:00,turn off all lights and set thermostat to 18
+133cd6a8-8739-40a0-87fa-a50a9a6337dd,time > 22:00,turn off all lights and set thermostat to 18
+71f5b80a-9712-4ba9-b831-704e378e6623,temperature < 18,turn on heating
+cb715fe5-6c33-4003-9a8e-17336698e332,time > 22:00,turn off all lights and set thermostat to 18
+b89b6707-1d97-4b91-b7c6-499f5ff9be65,time > 22:00,turn off all lights
+fc770551-17e0-47a0-b2c5-0ad057ffb44d,temperature < 18,turn on heating
+71acefed-c210-4885-9595-2907ef730038,time > 22:00,turn off all lights
+218e0d62-afe0-44d8-b710-8b10b84d5eee,time > 22:00,turn off all lights

@@ -1,9 +1,117 @@
 [
   {
+    "id": "2481c4de-86fc-4d12-8769-d3e76898f961",
+    "deviceId": "a2dfbf75-c08a-4916-8f0a-7071f72c0705",
+    "energyUsed": 150.5,
+    "timestamp": 1769175309219
+  },
+  {
+    "id": "bbe1cf45-4338-4950-bed4-e7eab2d5dc38",
+    "deviceId": "3f7d9da0-2ed6-4897-a711-885f4b1fcd0a",
+    "energyUsed": 75.0,
+    "timestamp": 1769171528424
+  },
+  {
+    "id": "793bac32-134e-430e-ace0-5725ab2e8cdf",
+    "deviceId": "d457901f-bae7-4ed0-996a-2498e5a222ee",
+    "energyUsed": 150.5,
+    "timestamp": 1769175576287
+  },
+  {
+    "id": "64d075c6-ccb1-4504-8dee-8aeab871cab6",
+    "deviceId": "56f947b7-4f5e-44e3-947b-bd1a313a0737",
+    "energyUsed": 200.0,
+    "timestamp": 1769440092325
+  },
+  {
+    "id": "5f178a11-adcf-4119-beeb-2f541501385e",
+    "deviceId": "9972966b-124d-42cb-9c74-26367b2467b8",
+    "energyUsed": 175.0,
+    "timestamp": 1769175553804
+  },
+  {
+    "id": "c32bce5f-2d01-48da-953a-dbb54bead440",
+    "deviceId": "4c6a96e3-6622-4c97-8d85-d40270ef0b34",
+    "energyUsed": 150.5,
+    "timestamp": 1769174662308
+  },
+  {
+    "id": "78f94167-a0e2-47bc-b1b6-e77a21984869",
+    "deviceId": "0f47b776-fed4-429a-84c9-dd1c7d3a2343",
+    "energyUsed": 175.0,
+    "timestamp": 1769440092325
+  },
+  {
+    "id": "988aa583-5b46-490c-967e-f9bc61838402",
+    "deviceId": "3acd6376-49e0-4fd0-af27-886c5b1e09c4",
+    "energyUsed": 175.0,
+    "timestamp": 1769175128424
+  },
+  {
+    "id": "59d5cabc-f9d1-4346-9926-0656b4273791",
+    "deviceId": "b79cca01-c16b-48b9-afde-b616a331fe17",
+    "energyUsed": 175.0,
+    "timestamp": 1769175330345
+  },
+  {
+    "id": "ec2ce7e7-cff9-4eb7-9cf8-713a310722fe",
+    "deviceId": "e3b33385-2106-478e-8512-06b61265e6b2",
+    "energyUsed": 75.0,
+    "timestamp": 1769171953804
+  },
+  {
+    "id": "f887f5d8-4506-4489-ab80-2305230b3652",
+    "deviceId": "c819573b-7e93-4508-a5de-aef3e49a7ae4",
+    "energyUsed": 200.0,
+    "timestamp": 1769175553804
+  },
+  {
+    "id": "02ba1d22-0732-4439-a2b1-49ab0d9282de",
+    "deviceId": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+    "energyUsed": 200.0,
+    "timestamp": 1769105143879
+  },
+  {
+    "id": "41b9e406-8f75-4276-84fe-22631e8acd48",
+    "deviceId": "b895caee-83c4-42e8-b9e5-e695930deb90",
+    "energyUsed": 175.0,
+    "timestamp": 1769174676555
+  },
+  {
+    "id": "7b07f5ca-5b07-4544-bb80-9c60e600e06d",
+    "deviceId": "7d5e9927-8653-40ee-b41f-320d93a45a47",
+    "energyUsed": 75.0,
+    "timestamp": 1769171730345
+  },
+  {
+    "id": "d9fca091-b4d4-4bf7-af99-7b5f088214ac",
+    "deviceId": "52a82917-c85f-497c-a56a-4c2805d2cb62",
+    "energyUsed": 150.5,
+    "timestamp": 1769175546235
+  },
+  {
     "id": "762c9929-cc27-4ed5-acda-b367a380367e",
     "deviceId": "ba6066cc-f109-4ce4-ad6a-aaaa661ff731",
     "energyUsed": 75.0,
     "timestamp": 1769101543879
+  },
+  {
+    "id": "8590c845-638f-49ec-98c5-b3f3f1e59882",
+    "deviceId": "e6d1d8f9-f516-4470-a698-a8f859d09595",
+    "energyUsed": 75.0,
+    "timestamp": 1769436492325
+  },
+  {
+    "id": "972134f8-6479-486c-abf3-c60611f42ba9",
+    "deviceId": "a7a5c708-8520-4ddb-a937-02f95fc867b7",
+    "energyUsed": 200.0,
+    "timestamp": 1769175330345
+  },
+  {
+    "id": "f5e583a5-3f14-475e-ae27-75b05a84dd76",
+    "deviceId": "d2ed3dfa-1924-491c-9980-bc94e0d7be63",
+    "energyUsed": 75.0,
+    "timestamp": 1769171076555
   },
   {
     "id": "444fba85-a861-4e3a-8e43-c319c920bc6b",
@@ -12,9 +120,15 @@
     "timestamp": 1769105143879
   },
   {
-    "id": "02ba1d22-0732-4439-a2b1-49ab0d9282de",
-    "deviceId": "2aa2341d-f44e-4aba-8396-971f24e1e93e",
+    "id": "4417eb43-36d4-4c5a-ae81-7ac3a31f2f26",
+    "deviceId": "0ced46ae-4b94-4208-b141-258700721c36",
     "energyUsed": 200.0,
-    "timestamp": 1769105143879
+    "timestamp": 1769175128424
+  },
+  {
+    "id": "50f42317-bf05-4296-a6e4-0423637009d2",
+    "deviceId": "7a2da159-69a4-481d-9ac6-4a2acf84a70b",
+    "energyUsed": 200.0,
+    "timestamp": 1769174676555
   }
 ]

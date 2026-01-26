@@ -5,8 +5,78 @@
     "action": "turn on heating"
   },
   {
+    "id": "bc3e6075-7ba6-4c16-9985-723fd6686ebd",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "f649ed7c-6190-42b1-83c5-f6d40cbc52ec",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  },
+  {
+    "id": "9c8f8552-5e42-4474-a91e-7389cfa4c838",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "12e26e1a-c127-47c4-b9ec-7ce9abdf8894",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights"
+  },
+  {
+    "id": "ccdcc7fa-ddee-42fc-9afe-d96f23c547c1",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "82b3596d-07dd-46c5-8e10-c7985ac526b0",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  },
+  {
+    "id": "3b83db81-b338-4803-ad3b-57ea9d7e7b2f",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  },
+  {
     "id": "3d70a411-5473-44c7-8693-32c6e61c8f11",
     "condition": "time \u003e 22:00",
     "action": "turn off all lights and set thermostat to 18"
+  },
+  {
+    "id": "133cd6a8-8739-40a0-87fa-a50a9a6337dd",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  },
+  {
+    "id": "71f5b80a-9712-4ba9-b831-704e378e6623",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "cb715fe5-6c33-4003-9a8e-17336698e332",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights and set thermostat to 18"
+  },
+  {
+    "id": "b89b6707-1d97-4b91-b7c6-499f5ff9be65",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights"
+  },
+  {
+    "id": "fc770551-17e0-47a0-b2c5-0ad057ffb44d",
+    "condition": "temperature \u003c 18",
+    "action": "turn on heating"
+  },
+  {
+    "id": "71acefed-c210-4885-9595-2907ef730038",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights"
+  },
+  {
+    "id": "218e0d62-afe0-44d8-b710-8b10b84d5eee",
+    "condition": "time \u003e 22:00",
+    "action": "turn off all lights"
   }
 ]

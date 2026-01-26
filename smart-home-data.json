@@ -1,54 +1,57 @@
 [
   {
-    "id": "29daf90e-ceb3-4f04-96dc-91f0e0dbdd70",
-    "name": "e6e31931-2fc7-4b5b-9c2b-ad8efb4f0e4c",
-    "email": "Louie Little",
-    "rooms": [
-      {
-        "id": "6ded1db9-615c-4724-94fc-f5dc9e8e989b",
-        "name": "conservatory",
-        "devices": [
-          {
-            "id": "8ae312b8-ec0c-44c7-9c9a-887878ecda4d",
-            "name": "Google Pixel 5a 5G",
-            "type": "Light",
-            "isOn": true,
-            "powerConsumption": 99.55
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "29805c72-57c3-4c40-b60c-3156e3d019a5",
     "name": "Ivan Petrov Updated",
     "email": "ivan.updated@mail.com",
+    "emailVerified": false,
     "rooms": []
   },
   {
-    "id": "b32c21e7-db84-4ae2-bd1d-71af5ac31168",
-    "name": "2db0c0de-938d-404a-97a8-19760f63cc7c",
-    "email": "Hubert Yost",
-    "rooms": [
-      {
-        "id": "4187b359-775d-463d-9794-22c75e2a5ab3",
-        "name": "pantry",
-        "devices": [
-          {
-            "id": "0ceee5b9-0fae-470e-8c43-a3917bd79c4a",
-            "name": "iPhone 5S",
-            "type": "Light",
-            "isOn": true,
-            "powerConsumption": 59.66
-          }
-        ]
-      }
-    ]
+    "id": "bd009bab-cad8-4c00-9770-249e9a6d22c9",
+    "name": "Demo User",
+    "email": "demo.user@example.com",
+    "passwordHash": "MTEaHh2WN0SzvtnPp6PhARPcWzQn+Nb8nHrqg8yu5R2gHoPszf8R8OTOyRzazRV5",
+    "emailVerified": true,
+    "rooms": []
+  },
+  {
+    "id": "d578c467-2ff3-40fd-a0cd-f11b5a0950ed",
+    "name": "zelon",
+    "email": "qweqweqw@gmail.com",
+    "passwordHash": "uFsTx1djHUgLV+3VHLdN+OH3PWol/hhI0mXLyJ3JGyDaua5zAGByiKX6ViiWJKOm",
+    "emailVerified": false,
+    "emailVerificationToken": "eIP3irgYuqfeSEObnzrMov_oFNUcVFDi59ZuDrItl7U",
+    "rooms": []
+  },
+  {
+    "id": "be6cdf64-71ab-470e-84be-2e4dc1887e18",
+    "name": "Ivan Petrov Updated",
+    "email": "ivan.updated@mail.com",
+    "passwordHash": "hashed_password_1",
+    "emailVerified": false,
+    "rooms": []
+  },
+  {
+    "id": "d4631e5f-eb0c-4f16-a66c-23246042dbc0",
+    "name": "Ivan Petrov Updated",
+    "email": "ivan.updated@mail.com",
+    "passwordHash": "hashed_password_1",
+    "emailVerified": false,
+    "rooms": []
+  },
+  {
+    "id": "dc3b7810-a247-4514-920e-c99dd4569818",
+    "name": "Ivan Petrov Updated",
+    "email": "ivan.updated@mail.com",
+    "passwordHash": "hashed_password_1",
+    "emailVerified": false,
+    "rooms": []
   },
   {
     "id": "5a3450a3-3469-4aae-b66d-dd9827c42c2e",
     "name": "5eafa377-95ad-4dff-be05-963272d14970",
     "email": "Liana Runte",
+    "emailVerified": false,
     "rooms": [
       {
         "id": "d1cabb85-32bd-412a-ae16-5d871abbaf04",
@@ -69,6 +72,7 @@
     "id": "08bb8500-d6a1-4f36-9b7d-95e9f05660fc",
     "name": "b720d8e9-1e57-4dcd-99b9-7022ad83a3f7",
     "email": "Dr. Albina Jacobi",
+    "emailVerified": false,
     "rooms": [
       {
         "id": "a26773bc-c569-40d7-b499-d8c41cabc06a",
@@ -86,9 +90,120 @@
     ]
   },
   {
+    "id": "509f9226-933f-4340-b2ce-6c77384f4e3d",
+    "name": "Zelon4ik",
+    "email": "worldcraft223@gmail.com",
+    "passwordHash": "n4Q3Gv71IGnZ+N3yLFlof7xqpd/f1IgfBQt9iJp99tV/7ZSmS6ZTo5z+VkuAVn76",
+    "emailVerified": true,
+    "rooms": []
+  },
+  {
+    "id": "570f8428-58a0-4212-b1ea-2b1af3a5dc89",
+    "name": "Ivan Petrov Updated",
+    "email": "ivan.updated@mail.com",
+    "passwordHash": "hashed_password_1",
+    "emailVerified": false,
+    "rooms": []
+  },
+  {
+    "id": "35de638d-320d-4055-b6d0-28359509a707",
+    "name": "ZELON",
+    "email": "asdjaskdja@gmail.com",
+    "passwordHash": "xIgee4qn1zsIBYmIsyZEos2+L6mcOqiE5YacnVAuNSy58DBjyVMoSxNIo5k700Jg",
+    "emailVerified": false,
+    "emailVerificationToken": "Q0-SFBpmM0ZKhBuEuYQQjSg9j3-Q8xs3OKxyXN6mmvU",
+    "rooms": []
+  },
+  {
+    "id": "29daf90e-ceb3-4f04-96dc-91f0e0dbdd70",
+    "name": "e6e31931-2fc7-4b5b-9c2b-ad8efb4f0e4c",
+    "email": "Louie Little",
+    "emailVerified": false,
+    "rooms": [
+      {
+        "id": "6ded1db9-615c-4724-94fc-f5dc9e8e989b",
+        "name": "conservatory",
+        "devices": [
+          {
+            "id": "8ae312b8-ec0c-44c7-9c9a-887878ecda4d",
+            "name": "Google Pixel 5a 5G",
+            "type": "Light",
+            "isOn": true,
+            "powerConsumption": 99.55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c354ee5c-daef-4d4d-b96d-2d96baa41aef",
+    "name": "admin_asdasd@gmail.com",
+    "email": "admin_asdasd@gmail.com",
+    "passwordHash": "TAglImc+2VKnc24Nn/C9fxv2nxSer3O9i2KTqqkKLr/DT57flWrnqBecXBQQVHP2",
+    "emailVerified": true,
+    "emailVerificationToken": "u_Y_PZDmkodq4RBzJOZ1tZmoa755oueBazzF2cEHg68",
+    "rooms": []
+  },
+  {
+    "id": "1c11b1cf-d9d2-4010-9e11-31701eeafd7e",
+    "name": "John Doe Updated",
+    "email": "john.doe@example.com",
+    "passwordHash": "Eu9K/WX/WvmH+ahsikICPcSnbTk8iU97QoZzXo3ZB2n6juXJcaOh19dIO/zpHFDi",
+    "emailVerified": false,
+    "rooms": []
+  },
+  {
+    "id": "b4ffb2f5-c643-47b7-8c69-bbf859865234",
+    "name": "Test User 2",
+    "email": "test.user2@example.com",
+    "passwordHash": "Jda++ipeaRcex+1qo6TOIe123uke9f590Y3zPnOo7OddWTFnmjjMDW67D5DKZ0SN",
+    "emailVerified": false,
+    "emailVerificationToken": "AAwaSRuVzkA-jm6ZDSnfyz9_spOABRWN8ALsBAC0WIg",
+    "rooms": []
+  },
+  {
+    "id": "9af1c89a-8b21-4940-a6e9-8d7b1ba02dc7",
+    "name": "Resend Test User",
+    "email": "resend.test@example.com",
+    "passwordHash": "SKsACBW8ExWD1hKk6QuXvnIMwq4iIRo4/CRO8eN3XYZzNaF1pXYRn5XZQPTIPfq3",
+    "emailVerified": false,
+    "emailVerificationToken": "E0BfwcjK5e2ek03nB84Gm6ZSamXB7cCD7q0UXkKTNXc",
+    "rooms": []
+  },
+  {
+    "id": "054b22c9-d1cd-4981-8076-d8991fd1efb0",
+    "name": "Ivan Petrov Updated",
+    "email": "ivan.updated@mail.com",
+    "passwordHash": "hashed_password_1",
+    "emailVerified": false,
+    "rooms": []
+  },
+  {
+    "id": "b32c21e7-db84-4ae2-bd1d-71af5ac31168",
+    "name": "2db0c0de-938d-404a-97a8-19760f63cc7c",
+    "email": "Hubert Yost",
+    "emailVerified": false,
+    "rooms": [
+      {
+        "id": "4187b359-775d-463d-9794-22c75e2a5ab3",
+        "name": "pantry",
+        "devices": [
+          {
+            "id": "0ceee5b9-0fae-470e-8c43-a3917bd79c4a",
+            "name": "iPhone 5S",
+            "type": "Light",
+            "isOn": true,
+            "powerConsumption": 59.66
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "dda6053c-4de9-4782-9466-1b0d7e240901",
     "name": "e0df320c-ba3a-432b-8b2e-f93f5af7d1a6",
     "email": "Dr. Chong Gottlieb",
+    "emailVerified": false,
     "rooms": [
       {
         "id": "78c99485-a09c-4429-b868-fc697e6c2da8",

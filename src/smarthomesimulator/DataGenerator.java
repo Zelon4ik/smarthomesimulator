@@ -4,6 +4,7 @@ import net.datafaker.Faker;
 import smarthomesimulator.Device.Device;
 import smarthomesimulator.Room.Room;
 import smarthomesimulator.User.User;
+import smarthomesimulator.infrastructure.PasswordHasher;
 
 import java.util.*;
 
@@ -32,6 +33,7 @@ public class DataGenerator {
             users.add(new User(
                     faker.name().fullName(),
                     faker.internet().emailAddress(),
+                    PasswordHasher.hashPassword("defaultPassword123"), // Default password for generated users
                     List.of(room)
             ));
         }

@@ -1,0 +1,32 @@
+=== SMART HOME SIMULATOR REPORT ===
+Generated: 2026-01-23 14:39:36
+
+=== SUMMARY ===
+Users: 11
+Devices: 18
+Rooms: 14
+Scenes: 14
+Triggers: 14
+Energy Logs: 19
+
+Total Energy Consumption: 2852,00
+
+=== DEVICES ===
+- Smart Light Updated (Light): OFF, Power: 50,50 W
+- Smart Thermostat (Thermostat): ON, Power: 25,00 W
+- Smart Light Pro (Light): ON, Power: 50,50 W
+- Smart TV (TV): ON, Power: 120,00 W
+- Smart Light Updated (Light): OFF, Power: 50,50 W
+- Smart Thermostat (Thermostat): ON, Power: 25,00 W
+- Smart Light Updated (Light): OFF, Power: 50,50 W
+- Smart Thermostat (Thermostat): ON, Power: 25,00 W
+- Smart Light Updated (Light): OFF, Power: 50,50 W
+- Smart TV (TV): ON, Power: 120,00 W
+- Smart Light Pro (Light): ON, Power: 50,50 W
+- Smart Light Updated (Light): OFF, Power: 50,50 W
+- Smart TV (TV): ON, Power: 120,00 W
+- Smart Light Pro (Light): ON, Power: 50,50 W
+- Smart TV (TV): ON, Power: 120,00 W
+- Smart TV (TV): ON, Power: 120,00 W
+- Smart Thermostat (Thermostat): ON, Power: 25,00 W
+- Smart Light Pro (Light): ON, Power: 50,50 W

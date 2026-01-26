@@ -13,6 +13,132 @@
     ]
   },
   {
+    "id": "3df141cf-d719-40b1-a72b-76158ae374f0",
+    "name": "Living Room",
+    "devices": [
+      {
+        "id": "4c6a96e3-6622-4c97-8d85-d40270ef0b34",
+        "name": "Smart Light Pro",
+        "type": "Light",
+        "isOn": true,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "6001e5b9-677e-4235-8bf5-78ba78d00eea",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "4e5e58f4-5a91-4385-824b-c32d400506b7",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "e6d1d8f9-f516-4470-a698-a8f859d09595",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "67155e80-8bf1-4f38-92ae-18aa1b6a0b85",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "d2ed3dfa-1924-491c-9980-bc94e0d7be63",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "c9bfe63f-5693-45aa-abee-a2589ec9e221",
+    "name": "Living Room",
+    "devices": [
+      {
+        "id": "a2dfbf75-c08a-4916-8f0a-7071f72c0705",
+        "name": "Smart Light Pro",
+        "type": "Light",
+        "isOn": true,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "8d2b2684-53d2-4e9a-86ce-baed45fbdafb",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "61cd995c-fbcb-480d-af5e-8f748caad1d5",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "9972966b-124d-42cb-9c74-26367b2467b8",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "c819573b-7e93-4508-a5de-aef3e49a7ae4",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
+    "id": "a9edfb74-78ec-40b0-8e05-693a28b43c86",
+    "name": "Living Room",
+    "devices": [
+      {
+        "id": "d457901f-bae7-4ed0-996a-2498e5a222ee",
+        "name": "Smart Light Pro",
+        "type": "Light",
+        "isOn": true,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "dcea9719-c067-430f-89ac-ff0c0fb4e8f5",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "d48d7ba4-1732-4389-8642-193f51773132",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "3acd6376-49e0-4fd0-af27-886c5b1e09c4",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "0ced46ae-4b94-4208-b141-258700721c36",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
     "id": "1e6a0e4a-1a81-4990-9d55-fee6561a95b7",
     "name": "Living Room Updated",
     "devices": [
@@ -29,6 +155,125 @@
         "type": "TV",
         "isOn": true,
         "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
+    "id": "d761038b-4ca5-4123-94b2-3613ced464d9",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "0f47b776-fed4-429a-84c9-dd1c7d3a2343",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "56f947b7-4f5e-44e3-947b-bd1a313a0737",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
+    "id": "75122649-3da1-4ce4-ad66-0de3d62c221f",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "e3b33385-2106-478e-8512-06b61265e6b2",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "1aa14bb6-ebe5-4531-a0d1-fb92837cd200",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "7d5e9927-8653-40ee-b41f-320d93a45a47",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "373cbaf4-327a-4cd3-8db6-9e9d36e66391",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "b79cca01-c16b-48b9-afde-b616a331fe17",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "a7a5c708-8520-4ddb-a937-02f95fc867b7",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
+    "id": "9088b511-bef4-423f-b8a1-faa049a63547",
+    "name": "Bedroom",
+    "devices": [
+      {
+        "id": "3f7d9da0-2ed6-4897-a711-885f4b1fcd0a",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
+      }
+    ]
+  },
+  {
+    "id": "7ceb5692-0b54-472b-a17e-86c441db7dfc",
+    "name": "Living Room Updated",
+    "devices": [
+      {
+        "id": "b895caee-83c4-42e8-b9e5-e695930deb90",
+        "name": "Smart Light Updated",
+        "type": "Light",
+        "isOn": false,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "7a2da159-69a4-481d-9ac6-4a2acf84a70b",
+        "name": "Smart TV",
+        "type": "TV",
+        "isOn": true,
+        "powerConsumption": 120.0
+      }
+    ]
+  },
+  {
+    "id": "3a073ad8-cb22-431b-9d44-a88f269afc23",
+    "name": "Living Room",
+    "devices": [
+      {
+        "id": "52a82917-c85f-497c-a56a-4c2805d2cb62",
+        "name": "Smart Light Pro",
+        "type": "Light",
+        "isOn": true,
+        "powerConsumption": 50.5
+      },
+      {
+        "id": "03093eab-d5d7-4bae-86d2-c89eb1629574",
+        "name": "Smart Thermostat",
+        "type": "Thermostat",
+        "isOn": false,
+        "powerConsumption": 25.0
       }
     ]
   }
